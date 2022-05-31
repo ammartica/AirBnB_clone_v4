@@ -166,7 +166,7 @@ Second part of Airbnb: Joann Vuong
 
 Fourth part of Airbnb:
 * Amisaday Martínez Campos - [Github](https://github.com/ammartica)
-* Johanne López - [Github](https://github.com/johanne101
+* Johanne López - [Github](https://github.com/johanne101)
 
 ## License
 Public Domain. No copy write protection.
